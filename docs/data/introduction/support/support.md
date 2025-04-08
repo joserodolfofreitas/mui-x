@@ -94,8 +94,9 @@ This includes issues introduced by external sources, like browser upgrades or ch
 
 ### Supported versions
 
-- MUI X v7: ✅ Stable major (Continuous support).
-- MUI X v6: ⚠️ Long-term support (Guaranteed Support for security issues and regressions).
+- MUI X v8: ✅ Stable major (Continuous support).
+- MUI X v7: ⚠️ Long-term support (Guaranteed Support for security issues and regressions).
+- MUI X v6: 🅧 No longer supported.
 - MUI X v5: 🅧 No longer supported.
 - MUI X v4: 🅧 No longer supported.
 - MUI X v3: 🅧 Never existed.
